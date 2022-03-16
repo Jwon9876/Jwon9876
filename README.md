@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Jwon9876/Jwon9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ju Won 🙂
 
-Here are some ideas to get you started:
+TODO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+TODO
+
+## Skills
+<div>
+  <img alt="ReactNaitve" src ="https://img.shields.io/badge/ReactNative-black.svg?&style=for-the-badge&logo=React&logoColor=61DAFB"/>
+  <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+</div>
+
+TODO
+
+## Tools
+TODO
+
+## Etc
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choexxxxx)](https://solved.ac/choexxxxx/)
+
+TODO
