@@ -2,8 +2,8 @@
 # Ju Won 🙂
 
 TODO
-
-## 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jwon9876&count_private=true)
+##
 TODO
 
 ## Skills
