@@ -14,4 +14,4 @@
 
 
 ## Etc
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choexxxxx)](https://solved.ac/choexxxxx/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choexxxxx)
