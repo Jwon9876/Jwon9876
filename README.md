@@ -17,6 +17,7 @@
 
 ## Skills
 <div>
+  <img alt="React" src ="https://img.shields.io/badge/React-white.svg?&style=for-the-badge&logo=React&logoColor=blue"/>
   <img alt="ReactNaitve" src ="https://img.shields.io/badge/ReactNative-black.svg?&style=for-the-badge&logo=React&logoColor=61DAFB"/>
   <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
 </div>
