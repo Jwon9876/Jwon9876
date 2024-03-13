@@ -2,7 +2,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Jwon9876&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
-
+<hr/>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwon9876&exclude_repo=BlockChain&count_private=true&layout=compact&theme=tokyonight"/>
 </a>
